@@ -3,7 +3,7 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 <a href="https://youtu.be/ww4z2m3uORU"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
-# ZIM BOT INC
+# SACHIYA-SL-BOT-V4
  WhatsApp with so Many features using multi device  [BAILEYS](https://github.com/adiwajshing/baileys)
  
  ## ```Donate Me```
@@ -45,6 +45,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 
 
 ``` 
+           🇱🇰SACHIYA-SL-BOT-V3🇱🇰
 apt install nodejs
 
 apt install git
@@ -53,7 +54,7 @@ apt update && apt upgrade
 
 git clone https://github.com/zim-bot/zimbot-v3
  
-cd zimbot-v3
+SACHIYA-SL-BOT-V3
 
 npm install
 
@@ -69,12 +70,15 @@ echo scan the qr code and enjoy bot
 
 
 ## JOIN MY WHATSAPP GROUP
+## SACHIYA-SL-BOT-V4
 
 # [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A)
 
 ## MY PERSONAL CHAT
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27634090203)
+## SACHIYA-SL-BOT-V4
+
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0767233346)
 
 
 # > THANKS FOR CHOOSING ZIM BOT WE APPRECIATE YOU FOR YOUR SUPPORT
