@@ -82,4 +82,6 @@ echo scan the qr code and enjoy bot
 
 
 # > THANKS FOR CHOOSING ZIM BOT WE APPRECIATE YOU FOR YOUR SUPPORT
+
+https://www.google.com/search?client=ms-android-samsung-gj-rev1&q=Xeon+github&sa=X&ved=2ahUKEwiuoKuk4_P6AhXr1HMBHbkNDh4Q1QJ6BAgiEAE&biw=412&bih=800&dpr=1.75
  
